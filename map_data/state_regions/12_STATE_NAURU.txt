@@ -16,5 +16,5 @@
         building_fishing_wharf = 3
         building_sulfur_mine = 12
     }
-    naval_exit_id = 3156
+    naval_exit_id = 3002
 }

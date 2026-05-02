@@ -15,5 +15,5 @@
         building_coal_mine = 12
         building_logging_camp = 3
     }
-    naval_exit_id = 3046
+    naval_exit_id = 3048
 }

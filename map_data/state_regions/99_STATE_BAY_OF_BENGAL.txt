@@ -1,4 +1,5 @@
 ﻿STATE_BAY_OF_BENGAL = {
     id = 3050
     provinces = { "x5CFAFA" }
+    diorama_radius_multiplier = 2.5
 }

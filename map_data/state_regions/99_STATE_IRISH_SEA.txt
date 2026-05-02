@@ -1,4 +1,6 @@
 ﻿STATE_IRISH_SEA = {
     id = 3030
     provinces = { "x1B77CD" }
+    diorama_radius_multiplier = 1.5
+    diorama_center_offset = { -1.0 3.0 }
 }

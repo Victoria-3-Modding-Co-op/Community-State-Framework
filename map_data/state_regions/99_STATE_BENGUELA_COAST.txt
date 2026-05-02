@@ -1,0 +1,5 @@
+﻿STATE_BENGUELA_COAST = {
+    id = 3104
+    provinces = { "x51B8B8" }
+    diorama_radius_multiplier = 2.5
+}

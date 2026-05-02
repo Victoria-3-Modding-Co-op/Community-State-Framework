@@ -1,4 +1,0 @@
-﻿STATE_EASTER_ISLAND_LANE_3 = {
-    id = 3007
-    provinces = { "xDB3C7F" }
-}

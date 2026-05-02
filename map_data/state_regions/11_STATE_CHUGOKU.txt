@@ -4,17 +4,19 @@
     provinces = { "x1151C0" "x715101" "x77D64C" "x89FD28" "xA287B0" "xB49AFB" "xC8AE5C" "xF05001" }
     traits = { "state_trait_seto_inland_sea" }
     city = "x715101"
-    port = "x1151C0"
-    farm = "xF05001"
-    mine = "xA287B0"
+    port = "x715101"
+    farm = "x1151C0"
+    mine = "xF05001"
     wood = "x77D64C"
-    arable_land = 75
+    arable_land = 101
     arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_dye_plantation" "building_tea_plantation" "building_tobacco_plantation" }
     capped_resources = {
-        building_lead_mine = 24
-        building_sulfur_mine = 40
+        building_iron_mine = 16
+        building_coal_mine = 8
+        building_lead_mine = 11
         building_logging_camp = 20
         building_fishing_wharf = 12
+        building_whaling_station = 3
     }
-    naval_exit_id = 3059
+    naval_exit_id = 3086
 }

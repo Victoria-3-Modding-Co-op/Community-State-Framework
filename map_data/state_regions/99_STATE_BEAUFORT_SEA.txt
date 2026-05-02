@@ -1,0 +1,5 @@
+﻿STATE_BEAUFORT_SEA = {
+    id = 3083
+    provinces = { "xD55EAD" }
+    impassable = { "xD55EAD" }
+}

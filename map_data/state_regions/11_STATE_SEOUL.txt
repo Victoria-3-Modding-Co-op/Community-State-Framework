@@ -11,11 +11,13 @@
     arable_land = 70
     arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tobacco_plantation" }
     capped_resources = {
-        building_iron_mine = 30
+        building_iron_mine = 15
+        building_coal_mine = 12
         building_lead_mine = 27
-        building_logging_camp = 14
-        building_whaling_station = 4
-        building_fishing_wharf = 8
+        building_logging_camp = 19
+        building_whaling_station = 3
+        building_fishing_wharf = 6
+        building_gold_mine = 2
     }
-    naval_exit_id = 3057
+    naval_exit_id = 3138
 }

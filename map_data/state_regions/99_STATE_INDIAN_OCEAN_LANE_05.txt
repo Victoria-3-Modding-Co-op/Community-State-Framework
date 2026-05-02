@@ -1,4 +1,0 @@
-﻿STATE_INDIAN_OCEAN_LANE_05 = {
-    id = 3116
-    provinces = { "xDB38A3" }
-}

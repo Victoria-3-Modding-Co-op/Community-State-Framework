@@ -1,4 +1,0 @@
-﻿STATE_CHILEAN_SEA = {
-    id = 3151
-    provinces = { "x26CAFC" }
-}

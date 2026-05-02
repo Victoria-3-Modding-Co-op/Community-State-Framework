@@ -1,4 +1,5 @@
-﻿STATE_MONTENEGRO = {
+# adjusted based on https://ipe.ro/Country%20Report%20Montenegro.pdf
+STATE_MONTENEGRO = {
     id = 119
     subsistence_building = "building_subsistence_farm"
     provinces = { "x446E84" "x8C6292" "x90A0E0" "xA12F82" "xF5F6C2" }
@@ -16,5 +17,5 @@
         building_logging_camp = 15
         building_fishing_wharf = 15
     }
-    naval_exit_id = 3033
+    naval_exit_id = 3093
 }

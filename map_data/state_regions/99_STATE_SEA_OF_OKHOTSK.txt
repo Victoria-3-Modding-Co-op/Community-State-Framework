@@ -1,4 +1,5 @@
 ﻿STATE_SEA_OF_OKHOTSK = {
     id = 3118
     provinces = { "x03DDFB" }
+    diorama_radius_multiplier = 2.5
 }

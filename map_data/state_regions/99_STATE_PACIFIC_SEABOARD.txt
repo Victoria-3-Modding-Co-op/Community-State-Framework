@@ -1,0 +1,5 @@
+﻿STATE_PACIFIC_SEABOARD = {
+    id = 3153
+    provinces = { "x31CACA" }
+    diorama_radius_multiplier = 2.5
+}

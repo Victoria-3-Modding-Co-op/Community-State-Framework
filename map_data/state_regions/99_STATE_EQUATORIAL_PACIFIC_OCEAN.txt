@@ -1,0 +1,5 @@
+﻿STATE_EQUATORIAL_PACIFIC_OCEAN = {
+    id = 3006
+    provinces = { "x6644E1" }
+    diorama_radius_multiplier = 2.5
+}

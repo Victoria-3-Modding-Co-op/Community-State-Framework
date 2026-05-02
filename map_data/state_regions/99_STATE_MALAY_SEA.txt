@@ -1,0 +1,6 @@
+﻿STATE_MALAY_SEA = {
+    id = 3072
+    provinces = { "x807D97" }
+    diorama_radius_multiplier = 2.5
+    diorama_center_offset = { 35.0 -5.0 }
+}

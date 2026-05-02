@@ -1,18 +1,21 @@
 ﻿STATE_KANSAI = {
     id = 532
     subsistence_building = "building_subsistence_rice_farm"
-    provinces = { "x305040" "x614287" "x705040" "x70D040" "x879C25" "x8EC4C9" "x9BD7C1" "x9E58B2" "xB03EF0" "xB0D0C0" "xCCB03E" }
+    provinces = { "x305040" "x614287" "x70D040" "x9E58B2" "xB03EF0" "xB0D0C0" }
     traits = { "state_trait_nara_basin" "state_trait_seto_inland_sea" }
-    city = "x8EC4C9"
+    city = "xB03EF0"
     port = "x70D040"
-    farm = "xCCB03E"
-    mine = "xB03EF0"
+    farm = "x305040"
+    mine = "x70D040"
     wood = "x614287"
-    arable_land = 190
-    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tea_plantation" "building_tobacco_plantation" }
+    arable_land = 95
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_opium_plantation" "building_silk_plantation" "building_tea_plantation" "building_vineyard" "building_tobacco_plantation" "building_dye_plantation" }
     capped_resources = {
+        building_gold_mine = 1
+        building_lead_mine = 18
         building_logging_camp = 9
         building_fishing_wharf = 10
+        building_whaling_station = 6
     }
-    naval_exit_id = 3059
+    naval_exit_id = 3086
 }

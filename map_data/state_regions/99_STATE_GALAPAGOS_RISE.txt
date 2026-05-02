@@ -1,4 +1,5 @@
 ﻿STATE_GALAPAGOS_RISE = {
     id = 3024
     provinces = { "x0D61DC" }
+    diorama_radius_multiplier = 2.5
 }

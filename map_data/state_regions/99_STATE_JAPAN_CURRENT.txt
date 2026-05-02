@@ -1,0 +1,5 @@
+﻿STATE_JAPAN_CURRENT = {
+    id = 3086
+    provinces = { "x9F5EAE" }
+    diorama_radius_multiplier = 2.5
+}

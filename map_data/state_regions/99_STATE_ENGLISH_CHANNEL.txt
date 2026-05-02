@@ -1,4 +1,6 @@
 ﻿STATE_ENGLISH_CHANNEL = {
     id = 3028
     provinces = { "x15C8C8" }
+    diorama_radius_multiplier = 1.5
+    diorama_center_offset = { 25.0 1.0 }
 }

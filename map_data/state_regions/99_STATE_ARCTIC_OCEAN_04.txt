@@ -1,5 +1,0 @@
-﻿STATE_ARCTIC_OCEAN_04 = {
-    id = 3040
-    provinces = { "x0D61A4" }
-    impassable = { "x0D61A4" }
-}

@@ -1,0 +1,5 @@
+﻿STATE_NORTH_ATLANTIC_CURRENT = {
+    id = 3131
+    provinces = { "x80C2E0" }
+    diorama_radius_multiplier = 2.5
+}

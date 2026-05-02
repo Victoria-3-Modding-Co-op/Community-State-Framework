@@ -1,4 +1,5 @@
 ﻿STATE_DAVIS_STRAIT = {
     id = 3023
     provinces = { "x6DFBFB" }
+    diorama_radius_multiplier = 2.5
 }

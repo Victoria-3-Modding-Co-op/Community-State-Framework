@@ -8,7 +8,7 @@
     mine = "x2BAB5F"
     wood = "x2E331F"
     arable_land = 375
-    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_tea_plantation" "building_tobacco_plantation" "building_vineyard" }
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_tobacco_plantation" "building_vineyard" }
     capped_resources = {
         building_coal_mine = 116
         building_iron_mine = 96

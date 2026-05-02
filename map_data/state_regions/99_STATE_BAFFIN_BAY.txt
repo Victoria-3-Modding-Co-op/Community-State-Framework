@@ -1,0 +1,5 @@
+﻿STATE_BAFFIN_BAY = {
+    id = 3076
+    provinces = { "xC64499" }
+    impassable = { "xC64499" }
+}

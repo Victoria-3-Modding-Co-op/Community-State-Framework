@@ -1,0 +1,5 @@
+﻿STATE_PATAGONIAN_CHANNELS = {
+    id = 3151
+    provinces = { "x26CAFC" }
+    diorama_radius_multiplier = 2.5
+}

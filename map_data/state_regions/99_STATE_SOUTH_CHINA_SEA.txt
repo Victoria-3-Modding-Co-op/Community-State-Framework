@@ -1,4 +1,5 @@
 ﻿STATE_SOUTH_CHINA_SEA = {
     id = 3056
     provinces = { "x7BDCFA" }
+    diorama_radius_multiplier = 2.5
 }

@@ -1,0 +1,5 @@
+﻿STATE_SOUTH_BRAZIL_BIGHT = {
+    id = 3064
+    provinces = { "x4499CD" }
+    diorama_radius_multiplier = 2.5
+}

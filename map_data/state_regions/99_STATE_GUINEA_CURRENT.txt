@@ -1,0 +1,5 @@
+﻿STATE_GUINEA_CURRENT = {
+    id = 3136
+    provinces = { "x755BD2" }
+    diorama_radius_multiplier = 2.5
+}

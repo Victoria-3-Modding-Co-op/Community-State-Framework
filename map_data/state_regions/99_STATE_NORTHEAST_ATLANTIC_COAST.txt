@@ -1,0 +1,5 @@
+﻿STATE_NORTHEAST_ATLANTIC_COAST = {
+    id = 3017
+    provinces = { "x0ECACA" }
+    diorama_radius_multiplier = 2.5
+}

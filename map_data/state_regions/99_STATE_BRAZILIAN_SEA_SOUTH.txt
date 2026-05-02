@@ -1,4 +1,0 @@
-﻿STATE_BRAZILIAN_SEA_SOUTH = {
-    id = 3064
-    provinces = { "x4499CD" }
-}

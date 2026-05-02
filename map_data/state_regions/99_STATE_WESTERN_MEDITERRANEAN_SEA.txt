@@ -1,4 +1,6 @@
 ﻿STATE_WESTERN_MEDITERRANEAN_SEA = {
     id = 3032
     provinces = { "x40D9DB" }
+    diorama_radius_multiplier = 1.5
+    diorama_center_offset = { 1.0 4.0 }
 }

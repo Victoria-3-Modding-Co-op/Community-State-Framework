@@ -1,0 +1,5 @@
+﻿STATE_LAPTEV_SEA = {
+    id = 3022
+    provinces = { "x16FAFA" }
+    impassable = { "x16FAFA" }
+}

@@ -1,5 +1,0 @@
-﻿STATE_LAKE_NICARAGUA = {
-    id = 3160
-    provinces = { "x18FDFD" }
-    impassable = { "x18FDFD" }
-}

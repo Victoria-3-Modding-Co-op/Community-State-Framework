@@ -7,7 +7,7 @@
     farm = "x89538D"
     mine = "x272AEE"
     wood = "x2FF791"
-    port = "x13A493"
+    port = "x0A2277"
     arable_land = 553
     arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_silk_plantation" "building_dye_plantation" "building_opium_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
     capped_resources = {

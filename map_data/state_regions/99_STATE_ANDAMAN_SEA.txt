@@ -1,4 +1,0 @@
-﻿STATE_ANDAMAN_SEA = {
-    id = 3051
-    provinces = { "x61C8C8" }
-}

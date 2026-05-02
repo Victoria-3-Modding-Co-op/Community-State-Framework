@@ -15,5 +15,5 @@
         building_whaling_station = 5
         building_fishing_wharf = 10
     }
-    naval_exit_id = 3111
+    naval_exit_id = 3108
 }

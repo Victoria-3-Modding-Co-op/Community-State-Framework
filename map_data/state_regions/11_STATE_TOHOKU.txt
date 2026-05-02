@@ -8,13 +8,21 @@
     mine = "xF01040"
     wood = "x3190C0"
     arable_land = 80
-    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_vineyard" }
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tobacco_plantation" "building_vineyard" }
     capped_resources = {
-        building_iron_mine = 60
-        building_lead_mine = 45
+        building_iron_mine = 53
+        building_coal_mine = 6
+        building_gold_mine = 2
+        building_sulfur_mine = 51
+        building_lead_mine = 33
         building_logging_camp = 15
-        building_whaling_station = 6
+        building_whaling_station = 5
         building_fishing_wharf = 15
+    }
+    resource = {
+        # Akita Oil Fields. Oil struck in 1935, and would later become a big supplier, but production was more limited before 1936
+        type = "building_oil_rig"
+        undiscovered_amount = 4
     }
     naval_exit_id = 3059
 }

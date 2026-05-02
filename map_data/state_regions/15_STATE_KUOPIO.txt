@@ -13,5 +13,4 @@
         building_logging_camp = 42
         building_iron_mine = 11
     }
-    naval_exit_id = 3000
 }

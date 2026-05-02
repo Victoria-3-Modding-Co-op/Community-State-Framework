@@ -1,5 +1,0 @@
-﻿STATE_INDIAN_OCEAN_02 = {
-    id = 3109
-    provinces = { "x405B94" }
-    impassable = { "x405B94" }
-}

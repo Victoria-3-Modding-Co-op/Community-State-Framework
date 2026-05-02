@@ -20,5 +20,5 @@
         depleted_type = "building_gold_mine"
         undiscovered_amount = 18
     }
-    naval_exit_id = 3059
+    naval_exit_id = 3118
 }

@@ -1,5 +1,5 @@
 ﻿STATE_SARGASSO_SEA = {
     id = 3068
     provinces = { "x43DEFC" }
-    impassable = { "x43DEFC" }
+    diorama_radius_multiplier = 2.5
 }

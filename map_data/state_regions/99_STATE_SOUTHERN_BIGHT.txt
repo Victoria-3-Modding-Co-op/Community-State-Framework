@@ -1,0 +1,6 @@
+﻿STATE_SOUTHERN_BIGHT = {
+    id = 3105
+    provinces = { "x56C9FB" }
+    diorama_radius_multiplier = 2.5
+    diorama_center_offset = { 1.0 1.0 }
+}

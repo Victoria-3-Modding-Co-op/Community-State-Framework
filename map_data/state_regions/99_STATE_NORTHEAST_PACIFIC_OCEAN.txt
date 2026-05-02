@@ -1,0 +1,5 @@
+﻿STATE_NORTHEAST_PACIFIC_OCEAN = {
+    id = 3081
+    provinces = { "xCF4DEF" }
+    diorama_radius_multiplier = 2.5
+}

@@ -1,4 +1,0 @@
-﻿STATE_SOUTH_PACIFIC_OCEAN_09 = {
-    id = 3156
-    provinces = { "x48FDFD" }
-}

@@ -1,7 +1,7 @@
 ﻿STATE_BUNDELKHAND = {
     id = 916
     subsistence_building = "building_subsistence_farm"
-    provinces = { "x0E5FEA" "x114EAE" "x277419" "x355332" "x4605A8" "x52001D" "x5272B3" "x52F672" "x5CBFF7" "x6170A0" "x618D5B" "x66337F" "x6B7184" "x7884D6" "x845EA7" "x907021" "x9E6DB9" "xBC06E9" "xD0B021" "xD0F986" # Jhansi 
+    provinces = { "x0E5FEA" "x114EAE" "x277419" "x355332" "x4605A8" "x52001D" "x5272B3" "x52F672" "x5CBFF7" "x6170A0" "x618D5B" "x66337F" "x6B7184" "x7884D6" "x845EA7" "x907021" "x9E6DB9" "xBC06E9" "xD0B021" "xD0F986" # Jhansi
  "xD64336" "xE81D4F" "xEB50A4" "xFE11FD" }
     prime_land = {}
     traits = {}

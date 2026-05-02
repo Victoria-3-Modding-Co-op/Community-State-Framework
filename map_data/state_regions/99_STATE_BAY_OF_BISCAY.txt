@@ -1,4 +1,6 @@
 ﻿STATE_BAY_OF_BISCAY = {
     id = 3029
     provinces = { "x2A95FA" }
+    diorama_radius_multiplier = 2.5
+    diorama_center_offset = { 55.0 -15.0 }
 }

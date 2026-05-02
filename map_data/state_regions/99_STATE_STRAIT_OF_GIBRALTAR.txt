@@ -1,4 +1,0 @@
-﻿STATE_STRAIT_OF_GIBRALTAR = {
-    id = 3031
-    provinces = { "x2CFAFA" }
-}

@@ -1,0 +1,5 @@
+﻿STATE_RIVER_PLATE = {
+    id = 3065
+    provinces = { "x1FDEFC" }
+    diorama_radius_multiplier = 2.5
+}

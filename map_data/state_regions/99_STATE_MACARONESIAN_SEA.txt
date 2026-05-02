@@ -1,4 +1,0 @@
-﻿STATE_MACARONESIAN_SEA = {
-    id = 3089
-    provinces = { "x5FDDFB" }
-}

@@ -1,4 +1,0 @@
-﻿STATE_PACIFIC_SEABOARD_01 = {
-    id = 3153
-    provinces = { "x31CACA" }
-}

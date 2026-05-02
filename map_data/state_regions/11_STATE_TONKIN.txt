@@ -2,7 +2,7 @@
     id = 517
     subsistence_building = "building_subsistence_rice_farm"
     provinces = { "x32BFFB" "x36F847" "x4BB178" "x5083AB" "x5AB75C" "x60458E" "x61145A" "x64BE62" "x65FE48" "x70B09F" "x738D72" "x799EA4" "x7B8217" "x88BB78" "x98FD84" "xC37AF1" "xCD0D1D" "xCF906A" "xD27C1B" "xD49EE0" "xF031A0" "xF0B0A0" "xF0E531" }
-    traits = { "state_trait_indochinese_forest" }
+    traits = { "state_trait_indochinese_forest" "state_trait_quang_yen_coalfield" }
     city = "xF0E531"
     port = "x4BB178"
     farm = "xF0B0A0"
@@ -11,7 +11,7 @@
     arable_land = 60
     arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_coffee_plantation" "building_cotton_plantation" "building_silk_plantation" "building_dye_plantation" "building_opium_plantation" "building_tea_plantation" "building_sugar_plantation" "building_banana_plantation" }
     capped_resources = {
-        building_coal_mine = 32
+        building_coal_mine = 38
         building_logging_camp = 15
         building_fishing_wharf = 7
     }
@@ -19,5 +19,5 @@
         type = "building_rubber_plantation"
         undiscovered_amount = 16
     }
-    naval_exit_id = 3054
+    naval_exit_id = 3056
 }

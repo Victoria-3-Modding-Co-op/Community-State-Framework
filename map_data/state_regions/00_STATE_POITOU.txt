@@ -14,4 +14,7 @@
         building_fishing_wharf = 6
     }
     naval_exit_id = 3029
+    blockade_locator = {
+        position = { 4066 0 2642 }
+    }
 }

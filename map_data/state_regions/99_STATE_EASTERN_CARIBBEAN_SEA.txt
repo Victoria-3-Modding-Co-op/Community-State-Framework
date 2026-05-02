@@ -1,4 +1,6 @@
 ﻿STATE_EASTERN_CARIBBEAN_SEA = {
     id = 3025
     provinces = { "xA3CDF4" }
+    diorama_radius_multiplier = 2.5
+    diorama_center_offset = { 1.0 55.0 }
 }

@@ -6,15 +6,15 @@
     city = "x7C9BEB"
     port = "xEFD040"
     farm = "xEFD040"
-    mine = "xF05040"
-    wood = "x5D5512"
-    arable_land = 40
+    mine = "x5D5512"
+    wood = "xF05040"
+    arable_land = 56
     arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_dye_plantation" "building_tea_plantation" "building_tobacco_plantation" }
     capped_resources = {
-        building_iron_mine = 24
-        building_sulfur_mine = 32
+        building_iron_mine = 4
+        building_lead_mine = 38
         building_logging_camp = 11
         building_fishing_wharf = 9
     }
-    naval_exit_id = 3059
+    naval_exit_id = 3086
 }

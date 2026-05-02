@@ -1,4 +1,0 @@
-﻿STATE_GULF_OF_MAINE = {
-    id = 3017
-    provinces = { "x0ECACA" }
-}

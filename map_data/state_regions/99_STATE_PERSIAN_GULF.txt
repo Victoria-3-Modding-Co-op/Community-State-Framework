@@ -1,4 +1,6 @@
 ﻿STATE_PERSIAN_GULF = {
     id = 3046
     provinces = { "x56C8FA" }
+    diorama_radius_multiplier = 2.2
+    diorama_center_offset = { 15.0 -35.0 }
 }

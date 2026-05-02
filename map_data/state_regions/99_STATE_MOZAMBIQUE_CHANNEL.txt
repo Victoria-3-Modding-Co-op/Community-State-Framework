@@ -1,4 +1,5 @@
 ﻿STATE_MOZAMBIQUE_CHANNEL = {
     id = 3107
     provinces = { "x4FDDFB" }
+    diorama_radius_multiplier = 2.5
 }

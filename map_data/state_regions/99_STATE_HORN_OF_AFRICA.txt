@@ -1,4 +1,6 @@
 ﻿STATE_HORN_OF_AFRICA = {
-    id = 3018
-    provinces = { "x2B5CB8" }
+    id = 3073
+    provinces = { "x807D98" }
+    diorama_radius_multiplier = 2.5
+    diorama_center_offset = { -5.0 -5.0 }
 }

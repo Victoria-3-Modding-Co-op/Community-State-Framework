@@ -1,5 +1,5 @@
 ﻿STATE_SOUTHERN_OCEAN_01 = {
-    id = 3014
-    provinces = { "x6FB3DE" }
-    impassable = { "x6FB3DE" }
+    id = 3148
+    provinces = { "x619BED" }
+    impassable = { "x619BED" }
 }

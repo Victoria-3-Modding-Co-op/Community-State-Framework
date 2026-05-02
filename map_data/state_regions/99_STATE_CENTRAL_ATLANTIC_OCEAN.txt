@@ -1,5 +1,0 @@
-﻿STATE_CENTRAL_ATLANTIC_OCEAN = {
-    id = 3090
-    provinces = { "x6DC9F4" }
-    impassable = { "x6DC9F4" }
-}

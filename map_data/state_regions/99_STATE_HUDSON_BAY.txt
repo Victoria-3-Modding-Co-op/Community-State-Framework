@@ -1,5 +1,6 @@
 ﻿STATE_HUDSON_BAY = {
     id = 3044
     provinces = { "x6FDDFB" }
-    impassable = { "x6FDDFB" }
+    diorama_radius_multiplier = 2.5
+    diorama_center_offset = { -55.0 -10.0 }
 }

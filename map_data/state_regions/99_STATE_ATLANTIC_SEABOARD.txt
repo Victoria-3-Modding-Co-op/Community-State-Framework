@@ -1,4 +1,0 @@
-﻿STATE_ATLANTIC_SEABOARD = {
-    id = 3067
-    provinces = { "xA3CEF4" }
-}

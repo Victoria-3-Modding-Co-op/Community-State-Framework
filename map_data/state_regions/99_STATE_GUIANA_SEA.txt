@@ -1,4 +1,0 @@
-﻿STATE_GUIANA_SEA = {
-    id = 3062
-    provinces = { "x18FCFC" }
-}

@@ -19,5 +19,5 @@
         type = "building_rubber_plantation"
         undiscovered_amount = 7
     }
-    naval_exit_id = 3049
+    naval_exit_id = 3050
 }

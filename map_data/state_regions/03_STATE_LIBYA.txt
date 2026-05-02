@@ -14,8 +14,8 @@
     arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_vineyard" }
     capped_resources = {
         building_fishing_wharf = 4
-		building_logging_camp = 6
-	}
+        building_logging_camp = 6
+    }
     resource = {
         type = "building_oil_rig"
         undiscovered_amount = 40

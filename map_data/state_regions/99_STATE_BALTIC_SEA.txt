@@ -1,4 +1,0 @@
-﻿STATE_BALTIC_SEA = {
-    id = 3000
-    provinces = { "x08FAFA" }
-}

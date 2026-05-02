@@ -1,4 +1,0 @@
-﻿STATE_COAST_OF_SAINT_HELENA = {
-    id = 3103
-    provinces = { "x79CBFD" }
-}

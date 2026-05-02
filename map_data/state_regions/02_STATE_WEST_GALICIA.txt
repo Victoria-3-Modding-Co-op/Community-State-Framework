@@ -1,7 +1,7 @@
 ﻿STATE_WEST_GALICIA = {
     id = 161
     subsistence_building = "building_subsistence_farm"
-    provinces = { "x1161E0" "x11E061" "x56599F" "x5F3456" "x66DCEE" "x906060" "x90E060" "xA550A9" "xA63CE6" "xC7B7B8" "xC8690C" "xFCC35F" }
+    provinces = { "x1161E0" "x11E061" "x56599F" "x5F3456" "x66DCEE" "x906060" "x9061E0" "x90E060" "xA550A9" "xA63CE6" "xC7B7B8" "xC8690C" "xFCC35F" }
     prime_land = { "x5F3456" "xFCC35F" }
     city = "x906060"
     farm = "x5F3456"

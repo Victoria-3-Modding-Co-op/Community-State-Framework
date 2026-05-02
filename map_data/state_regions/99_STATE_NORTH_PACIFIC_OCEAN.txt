@@ -1,0 +1,5 @@
+﻿STATE_NORTH_PACIFIC_OCEAN = {
+    id = 3011
+    provinces = { "xA87DDC" }
+    diorama_radius_multiplier = 2.5
+}

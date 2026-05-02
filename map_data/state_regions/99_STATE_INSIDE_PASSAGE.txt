@@ -1,0 +1,5 @@
+﻿STATE_INSIDE_PASSAGE = {
+    id = 3154
+    provinces = { "x16FCFA" }
+    diorama_radius_multiplier = 2.5
+}

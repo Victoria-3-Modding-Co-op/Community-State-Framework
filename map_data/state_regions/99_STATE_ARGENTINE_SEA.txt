@@ -1,4 +1,0 @@
-﻿STATE_ARGENTINE_SEA = {
-    id = 3065
-    provinces = { "x1FDEFC" }
-}

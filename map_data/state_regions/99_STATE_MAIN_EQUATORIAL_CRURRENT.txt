@@ -1,0 +1,5 @@
+﻿STATE_MAIN_EQUATORIAL_CRURRENT = {
+    id = 3090
+    provinces = { "x6DC9F4" }
+    diorama_radius_multiplier = 2.5
+}

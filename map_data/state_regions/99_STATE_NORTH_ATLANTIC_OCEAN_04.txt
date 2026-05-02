@@ -1,5 +1,0 @@
-﻿STATE_NORTH_ATLANTIC_OCEAN_04 = {
-    id = 3073
-    provinces = { "x807D98" }
-    impassable = { "x807D98" }
-}

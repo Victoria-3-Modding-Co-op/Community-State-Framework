@@ -17,5 +17,5 @@
         building_logging_camp = 5
         building_fishing_wharf = 4
     }
-    naval_exit_id = 3029
+    naval_exit_id = 3089
 }

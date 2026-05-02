@@ -1,4 +1,6 @@
 ﻿STATE_GULF_OF_SAINT_LAWRENCE = {
     id = 3045
     provinces = { "x74FBFB" }
+    diorama_radius_multiplier = 2.5
+    diorama_center_offset = { 35.0 -10.0 }
 }

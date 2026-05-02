@@ -1,4 +1,0 @@
-﻿STATE_NATAL_COAST = {
-    id = 3106
-    provinces = { "x78FCFC" }
-}

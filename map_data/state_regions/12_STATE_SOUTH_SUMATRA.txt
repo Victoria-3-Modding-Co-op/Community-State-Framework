@@ -23,5 +23,5 @@
         type = "building_oil_rig"
         undiscovered_amount = 20
     }
-    naval_exit_id = 3120
+    naval_exit_id = 3158
 }

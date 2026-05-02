@@ -1,4 +1,0 @@
-﻿STATE_SULU_SEA = {
-    id = 3055
-    provinces = { "x76C8FA" }
-}

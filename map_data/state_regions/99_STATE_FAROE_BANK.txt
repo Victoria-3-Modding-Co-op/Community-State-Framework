@@ -1,4 +1,0 @@
-﻿STATE_FAROE_BANK = {
-    id = 3016
-    provinces = { "x709ACF" }
-}

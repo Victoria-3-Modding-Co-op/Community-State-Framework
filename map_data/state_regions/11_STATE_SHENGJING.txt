@@ -9,15 +9,17 @@
     mine = "xD7F9BA"
     wood = "xE9FEDB"
     arable_land = 75
-    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tea_plantation" "building_tobacco_plantation" }
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tobacco_plantation" }
     capped_resources = {
-        building_lead_mine = 15
-        building_logging_camp = 2
-        building_fishing_wharf = 2
+        building_coal_mine = 97
+        building_lead_mine = 68
+        building_iron_mine = 104
+        building_logging_camp = 12
+        building_fishing_wharf = 3
     }
     resource = {
         type = "building_oil_rig"
         undiscovered_amount = 20
     }
-    naval_exit_id = 3057
+    naval_exit_id = 3138
 }

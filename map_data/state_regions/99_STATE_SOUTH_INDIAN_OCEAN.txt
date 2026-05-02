@@ -1,0 +1,5 @@
+﻿STATE_SOUTH_INDIAN_OCEAN = {
+    id = 3110
+    provinces = { "x49C9C9" }
+    diorama_radius_multiplier = 2.5
+}

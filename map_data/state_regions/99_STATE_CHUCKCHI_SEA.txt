@@ -1,0 +1,5 @@
+﻿STATE_CHUCKCHI_SEA = {
+    id = 3037
+    provinces = { "x39CACA" }
+    impassable = { "x39CACA" }
+}

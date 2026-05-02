@@ -1,4 +1,0 @@
-﻿STATE_GULF_OF_SIAM = {
-    id = 3053
-    provinces = { "x74FAFA" }
-}

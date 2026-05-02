@@ -1,4 +1,5 @@
 ﻿STATE_MICRONESIAN_SEA = {
     id = 3002
     provinces = { "x341ABA" }
+    diorama_radius_multiplier = 2.5
 }

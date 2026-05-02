@@ -1,4 +1,0 @@
-﻿STATE_TIMOR_SEA = {
-    id = 3123
-    provinces = { "x6BDCFA" }
-}

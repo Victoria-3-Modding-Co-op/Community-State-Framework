@@ -1,0 +1,5 @@
+﻿STATE_COAST_OF_GUYANA = {
+    id = 3062
+    provinces = { "x18FCFC" }
+    diorama_radius_multiplier = 2.5
+}

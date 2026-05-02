@@ -1,4 +1,0 @@
-﻿STATE_SOUTH_PACIFIC_LANE_2 = {
-    id = 3004
-    provinces = { "xE10DAD" }
-}

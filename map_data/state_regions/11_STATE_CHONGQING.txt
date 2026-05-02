@@ -8,7 +8,7 @@
     mine = "xF9B015"
     wood = "x192C0F"
     arable_land = 500
-    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_silk_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_vineyard" }
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_silk_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_vineyard" "building_opium_plantation" }
     capped_resources = {
         building_coal_mine = 36
         building_logging_camp = 9

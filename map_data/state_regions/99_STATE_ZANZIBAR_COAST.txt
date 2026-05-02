@@ -1,0 +1,5 @@
+﻿STATE_ZANZIBAR_COAST = {
+    id = 3018
+    provinces = { "x2B5CB8" }
+    diorama_radius_multiplier = 2.5
+}

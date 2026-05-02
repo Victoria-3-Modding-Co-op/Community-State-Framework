@@ -1,0 +1,5 @@
+﻿STATE_SOUTHERN_ATLANTIC_CRURRENT = {
+    id = 3144
+    provinces = { "x2863CB" }
+    diorama_radius_multiplier = 2.5
+}

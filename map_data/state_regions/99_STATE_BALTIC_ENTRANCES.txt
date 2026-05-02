@@ -1,0 +1,5 @@
+﻿STATE_BALTIC_ENTRANCES = {
+    id = 3019
+    provinces = { "x0AC8FA" }
+    diorama_radius_multiplier = 1.5
+}

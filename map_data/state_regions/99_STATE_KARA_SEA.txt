@@ -1,0 +1,5 @@
+﻿STATE_KARA_SEA = {
+    id = 3040
+    provinces = { "x0D61A4" }
+    impassable = { "x0D61A4" }
+}

@@ -1,0 +1,5 @@
+﻿STATE_AMAZON_DELTA = {
+    id = 3142
+    provinces = { "x3B70B1" }
+    diorama_radius_multiplier = 2.5
+}

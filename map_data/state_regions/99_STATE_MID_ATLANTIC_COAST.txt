@@ -1,0 +1,5 @@
+﻿STATE_MID_ATLANTIC_COAST = {
+    id = 3067
+    provinces = { "xA3CEF4" }
+    diorama_radius_multiplier = 2.5
+}

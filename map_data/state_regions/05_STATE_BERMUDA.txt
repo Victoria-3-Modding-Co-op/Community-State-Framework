@@ -12,5 +12,5 @@
     capped_resources = {
         building_fishing_wharf = 2
     }
-    naval_exit_id = 3078
+    naval_exit_id = 3068
 }

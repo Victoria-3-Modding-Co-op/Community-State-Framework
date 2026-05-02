@@ -1,0 +1,6 @@
+﻿STATE_CELTIC_SEA = {
+    id = 3077
+    provinces = { "xDA6DF6" }
+    diorama_radius_multiplier = 2.5
+    diorama_center_offset = { -20.0 -5.0 }
+}

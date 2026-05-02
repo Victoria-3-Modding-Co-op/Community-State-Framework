@@ -1,4 +1,5 @@
 ﻿STATE_EASTERN_POLYNESIA = {
     id = 3150
     provinces = { "x81A0D2" }
+    diorama_radius_multiplier = 2.5
 }

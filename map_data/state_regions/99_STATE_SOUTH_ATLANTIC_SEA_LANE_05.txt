@@ -1,4 +1,0 @@
-﻿STATE_SOUTH_ATLANTIC_SEA_LANE_05 = {
-    id = 3102
-    provinces = { "xB56DB4" }
-}

@@ -1,4 +1,6 @@
 ﻿STATE_RED_SEA = {
     id = 3047
     provinces = { "x4FDCFA" }
+    diorama_radius_multiplier = 2.5
+    diorama_center_offset = { 15.0 -35.0 }
 }

@@ -1,5 +1,0 @@
-﻿STATE_PATAGONIAN_LAKES = {
-    id = 3159
-    provinces = { "x20E0CC" }
-    impassable = { "x20E0CC" }
-}

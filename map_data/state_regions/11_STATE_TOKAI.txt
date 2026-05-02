@@ -1,0 +1,24 @@
+﻿STATE_TOKAI = {
+    id = 531
+    subsistence_building = "building_subsistence_rice_farm"
+    provinces = { "x205FEB" "x3050C0" "x31D0C0" "x4942D2" "x5E87A1" "x910F25" "x9B2E00" "xADE732" "xC02285" "xCCB03E" }
+    city = "x9B2E00"
+    port = "x31D0C0"
+    farm = "x31D0C0"
+    mine = "xC02285"
+    wood = "xCCB03E"
+    arable_land = 107
+    arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_vineyard" }
+    capped_resources = {
+        building_lead_mine = 38
+        building_sulfur_mine = 12
+        building_logging_camp = 16
+        building_fishing_wharf = 16
+    }
+    resource = {
+        # Sagara Oil Field
+        type = "building_oil_rig"
+        undiscovered_amount = 1
+    }
+    naval_exit_id = 3086
+}

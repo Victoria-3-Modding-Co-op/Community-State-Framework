@@ -1,4 +1,0 @@
-﻿STATE_CARIBBEAN_SEA = {
-    id = 3061
-    provinces = { "x0DCACA" }
-}

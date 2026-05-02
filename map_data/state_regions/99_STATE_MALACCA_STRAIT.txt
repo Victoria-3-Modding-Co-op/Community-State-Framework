@@ -1,0 +1,6 @@
+﻿STATE_MALACCA_STRAIT = {
+    id = 3051
+    provinces = { "x61C8C8" }
+    diorama_radius_multiplier = 2.5
+    diorama_center_offset = { 0.0 -35.0 }
+}

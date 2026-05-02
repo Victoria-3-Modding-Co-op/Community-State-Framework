@@ -1,4 +1,5 @@
 ﻿STATE_GULF_OF_ALASKA = {
     id = 3119
     provinces = { "x36CAFC" }
+    diorama_radius_multiplier = 2.5
 }

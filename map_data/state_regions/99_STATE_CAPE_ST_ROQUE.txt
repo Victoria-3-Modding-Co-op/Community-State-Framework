@@ -1,0 +1,5 @@
+﻿STATE_CAPE_ST_ROQUE = {
+    id = 3063
+    provinces = { "x1ACAFC" }
+    diorama_radius_multiplier = 2.5
+}

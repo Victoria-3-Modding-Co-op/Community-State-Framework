@@ -1,7 +1,7 @@
 # update as needed, paths assume script is run from project root folder
-$Source = ".\docs\1.12 state_regions";
+$Source = "..\docs\1.13 State Regions";
 
-$OutputDirectory = ".\map_data\state_regions\";
+$OutputDirectory = "..\map_data\state_regions\";
 $FileOpen = $false;
 $StateStart = "^STATE_";
 #$StateCount = 0;

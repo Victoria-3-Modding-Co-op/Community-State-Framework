@@ -1,4 +1,0 @@
-﻿STATE_SCOTIA_SEA = {
-    id = 3066
-    provinces = { "x858CBF" }
-}

@@ -1,0 +1,6 @@
+﻿STATE_BAHAMA_BANKS = {
+    id = 3061
+    provinces = { "x0DCACA" }
+    diorama_radius_multiplier = 2.5
+    diorama_center_offset = { 35.0 -5.0 }
+}

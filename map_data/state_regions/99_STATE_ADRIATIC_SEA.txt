@@ -1,0 +1,6 @@
+﻿STATE_ADRIATIC_SEA = {
+    id = 3093
+    provinces = { "x2861CB" }
+    diorama_radius_multiplier = 2.0
+    diorama_center_offset = { -17.0 10.0 }
+}

@@ -1,4 +1,0 @@
-﻿STATE_ANGOLAN_SEA = {
-    id = 3104
-    provinces = { "x51B8B8" }
-}

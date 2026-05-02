@@ -1,4 +1,0 @@
-﻿STATE_BRAZILIAN_SEA_NORTH = {
-    id = 3063
-    provinces = { "x1ACAFC" }
-}

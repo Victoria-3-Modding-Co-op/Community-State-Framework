@@ -1,5 +1,0 @@
-﻿STATE_NORTH_PACIFIC_OCEAN_01 = {
-    id = 3130
-    provinces = { "x405D92" }
-    impassable = { "x405D92" }
-}

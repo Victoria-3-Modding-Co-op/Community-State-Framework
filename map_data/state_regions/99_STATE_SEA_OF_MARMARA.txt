@@ -1,4 +1,6 @@
 ﻿STATE_SEA_OF_MARMARA = {
     id = 3035
     provinces = { "x47DCFA" }
+    diorama_radius_multiplier = 0.8
+    diorama_center_offset = { 3.0 0.0 }
 }

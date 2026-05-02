@@ -10,7 +10,7 @@
     mine = "xAD4A5C"
     wood = "x480190"
     arable_land = 200
-    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tea_plantation" "building_tobacco_plantation" }
+    arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tobacco_plantation" }
     capped_resources = {
         building_coal_mine = 5
         building_iron_mine = 9
@@ -18,5 +18,5 @@
         building_logging_camp = 9
         building_fishing_wharf = 4
     }
-    naval_exit_id = 3057
+    naval_exit_id = 3138
 }

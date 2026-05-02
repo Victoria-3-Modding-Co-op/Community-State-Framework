@@ -1,0 +1,5 @@
+﻿STATE_NORTHWEST_PASSAGE = {
+    id = 3038
+    provinces = { "x70FBFB" }
+    impassable = { "x70FBFB" }
+}

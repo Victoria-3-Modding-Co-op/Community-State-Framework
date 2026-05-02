@@ -1,10 +1,10 @@
 {
   "name" : "Community State Framework",
   "id" : "com.github.Victoria-3-Modding-Co-op.Community-State-Framework",
-  "version" : "1.0.2",
+  "version" : "1.0.3",
   "game_id" : "victoria3",
   "picture" : "thumbnail.png",
-  "supported_game_version" : "1.12.*",
+  "supported_game_version" : "1.13.*",
   "short_description" : "This is a framework to break up the base game state region files for ease of modding.",
   "tags" : [ ],
   "relationships" : [],

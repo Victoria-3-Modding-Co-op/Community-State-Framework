@@ -12,6 +12,7 @@
     arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tea_plantation" "building_sugar_plantation" "building_vineyard" }
     capped_resources = {
         building_coal_mine = 80
+        building_lead_mine = 24
         building_iron_mine = 36
         building_logging_camp = 7
         building_whaling_station = 4

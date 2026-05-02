@@ -1,4 +1,6 @@
 ﻿STATE_YELLOW_SEA = {
-    id = 3057
-    provinces = { "x7EC8FA" }
+    id = 3138
+    provinces = { "xA63FD5" }
+    diorama_radius_multiplier = 2.2
+    diorama_center_offset = { 25.0 8.0 }
 }

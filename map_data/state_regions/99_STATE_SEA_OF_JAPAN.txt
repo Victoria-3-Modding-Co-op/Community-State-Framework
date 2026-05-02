@@ -1,4 +1,6 @@
 ﻿STATE_SEA_OF_JAPAN = {
     id = 3059
     provinces = { "x00FBFB" }
+    diorama_radius_multiplier = 2.5
+    diorama_center_offset = { -70.0 -40.0 }
 }

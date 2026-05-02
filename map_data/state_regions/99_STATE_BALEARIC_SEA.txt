@@ -1,0 +1,5 @@
+﻿STATE_BALEARIC_SEA = {
+    id = 3098
+    provinces = { "x8ADE90" }
+    diorama_radius_multiplier = 2.5
+}

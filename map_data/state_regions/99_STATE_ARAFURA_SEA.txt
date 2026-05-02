@@ -1,4 +1,0 @@
-﻿STATE_ARAFURA_SEA = {
-    id = 3126
-    provinces = { "x21C9C9" }
-}
