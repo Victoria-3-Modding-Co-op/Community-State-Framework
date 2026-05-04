@@ -1,4 +1,4 @@
-# Burma
+﻿# Burma
 
 STATE_TENASSERIM = {
     id = 523
