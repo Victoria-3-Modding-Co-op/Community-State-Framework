@@ -1,9 +1,10 @@
 # update as needed, paths assume script is run from project root folder
-$Source = "..\docs\1.13 State Regions";
+$Source = ".\docs\1.15 State Regions";
 
-$OutputDirectory = "..\map_data\state_regions\";
+$OutputDirectory = ".\map_data\state_regions\";
 $FileOpen = $false;
 $StateStart = "^STATE_";
+# Uncomment these variables to name state files with unique number prefixes in addition to base file number prefix
 #$StateCount = 0;
 #$StatePad = "";
 
