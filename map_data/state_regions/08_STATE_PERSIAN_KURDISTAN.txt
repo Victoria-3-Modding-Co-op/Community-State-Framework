@@ -17,4 +17,6 @@
         building_logging_camp = 4
         building_iron_mine = 3
     }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.17
 }

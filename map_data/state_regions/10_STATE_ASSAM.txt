@@ -23,4 +23,6 @@
         type = "building_rubber_plantation"
         undiscovered_amount = 12
     }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.05
 }

@@ -11,6 +11,9 @@
     capped_resources = {
         building_coal_mine = 10
         building_lead_mine = 24
+        building_copper_mine = 6
         building_logging_camp = 4
     }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.34
 }

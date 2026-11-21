@@ -7,7 +7,7 @@
     farm = "x89538D"
     mine = "x272AEE"
     wood = "x2FF791"
-    port = "x0A2277"
+    port = "x89D769"
     arable_land = 553
     arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_silk_plantation" "building_dye_plantation" "building_opium_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
     capped_resources = {
@@ -18,4 +18,10 @@
     }
 
     naval_exit_id = 3050
+    blockade_locator = {
+        position = { 6100 0 2019 }
+        yaw = 15
+    }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.04
 }

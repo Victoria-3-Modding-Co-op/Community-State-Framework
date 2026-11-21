@@ -13,4 +13,6 @@
         building_lead_mine = 18
         building_logging_camp = 6
     }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.07
 }

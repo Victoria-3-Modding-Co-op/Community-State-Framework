@@ -2,4 +2,6 @@
     id = 3038
     provinces = { "x70FBFB" }
     impassable = { "x70FBFB" }
+    min_cold_effect = 0.50
+    max_cold_effect = 0.95
 }

@@ -4,7 +4,7 @@
     provinces = { "x0AC82E" "x11F0A0" "x180640" "x207C4F" "x365CC3" "x3EC5D1" "x42F4F2" "x477063" "x6B15F1" "x7166FA" "x73B187" "x8B1F32" "x9070A0" "x9193B1" "xB00B6B" "xB3DED5" "xC744F9" "xCDFBE6" "xCFF020" "xD19AD8" "xE2CF64" "xE9BCE7" "xEBBB7A" "xF8BB81" }
     prime_land = { x6B15F1 x7166FA xC744F9 }
     city = "x477063"
-    port = "x477063"
+    port = "x365CC3"
     farm = "x0AC82E"
     mine = "x7166FA"
     wood = "x9070A0"
@@ -12,7 +12,7 @@
     arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_cotton_plantation" "building_dye_plantation" "building_tea_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" "building_silk_plantation" }
     capped_resources = {
         building_coal_mine = 4
-        building_iron_mine = 2
+        building_iron_mine = 3
         building_logging_camp = 11
         building_fishing_wharf = 18
     }

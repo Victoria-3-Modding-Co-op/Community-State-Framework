@@ -11,5 +11,8 @@
     capped_resources = {
         building_iron_mine = 6
         building_lead_mine = 8
+        building_copper_mine = 5
     }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.14
 }

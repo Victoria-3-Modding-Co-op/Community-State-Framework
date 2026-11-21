@@ -18,6 +18,7 @@
         building_logging_camp = 20
         building_whaling_station = 3
         building_fishing_wharf = 10
+        building_copper_mine = 6
     }
     naval_exit_id = 3152
 }

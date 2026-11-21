@@ -3,4 +3,6 @@
     provinces = { "xA63FD5" }
     diorama_radius_multiplier = 2.2
     diorama_center_offset = { 25.0 8.0 }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.20
 }

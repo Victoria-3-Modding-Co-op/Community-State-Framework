@@ -2,4 +2,6 @@
     id = 3016
     provinces = { "x709ACF" }
     impassable = { "x709ACF" }
+    min_cold_effect = 0.35
+    max_cold_effect = 0.85
 }

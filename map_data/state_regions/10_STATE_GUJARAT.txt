@@ -5,7 +5,7 @@
     prime_land = { "x31D0E0" "xB0D060" "xADD2A3" "xCC1D23" "xF87E91" "xC7C3FD" "x3151E0" "x128888" "xD31590" "x3FFA53" x30D060 x075A8E xB3D1CD xB11F7B xBBB2BD x3151E0 x73656F xEB1229 xD8CEF7 xECB4F5 x90B589 x03C674 x30E365 x31D0E0 x9C8D06 xCC1D23 }
     traits = { "state_trait_natural_harbors" }
     city = "xF87E91"
-    port = "xB3D1CD"
+    port = "x31D0E0"
     farm = "x90B589"
     mine = "x164DBB"
     wood = "xB05060"
@@ -21,4 +21,6 @@
         undiscovered_amount = 8
     }
     naval_exit_id = 3048
+    min_cold_effect = 0.00
+    max_cold_effect = 0.02
 }

@@ -21,4 +21,6 @@
         undiscovered_amount = 1
     }
     naval_exit_id = 3086
+    min_cold_effect = 0.00
+    max_cold_effect = 0.17
 }

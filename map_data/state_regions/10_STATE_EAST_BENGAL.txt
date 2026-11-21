@@ -4,7 +4,7 @@
     provinces = { "x025A94" "x0C82AB" "x117060" "x1E0385" "x30B0A0" "x3C68C9" "x3E5D45" "x40F5CE" "x4123FE" "x474C54" "x475FC4" "x55F631" "x6F1170" "x71E2DE" "x92DA2C" "x93E9F4" "xA605E3" "xAC2CB6" "xB06FC2" "xC81678" "xCA47BA" "xCB5C0A" "xD06FA1" "xD28E5F" "xD2E951" "xDA53DA" "xDFA414" "xE6CD14" "xF04684" "xF3A964" }
     traits = { "state_trait_bengal_delta" "state_trait_natural_harbors" }
     city = "xD2E951"
-    port = "x3C68C9"
+    port = "xC81678"
     farm = "xC81678"
     mine = "x93E9F4"
     wood = "xCA47BA"
@@ -16,4 +16,6 @@
         building_fishing_wharf = 11
     }
     naval_exit_id = 3050
+    min_cold_effect = 0.00
+    max_cold_effect = 0.03
 }

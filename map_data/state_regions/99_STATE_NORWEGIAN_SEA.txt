@@ -2,4 +2,6 @@
     id = 3020
     provinces = { "x0FDCFA" }
     diorama_radius_multiplier = 2.5
+    min_cold_effect = 0.06
+    max_cold_effect = 0.35
 }

@@ -11,6 +11,9 @@
     arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tobacco_plantation" }
     capped_resources = {
         building_iron_mine = 30
+        building_copper_mine = 6
         building_logging_camp = 17
     }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.18
 }

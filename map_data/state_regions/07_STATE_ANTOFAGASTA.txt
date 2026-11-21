@@ -2,7 +2,7 @@
     id = 362
     subsistence_building = "building_subsistence_farm"
     provinces = { "x1B2EC2" "x2000F0" "x208070" "x20E574" "x291C71" "x2DF128" "x3FDC05" "x40D35C" "x4DCF72" "x694D06" "x6B33D0" "x71C02C" "x7984DF" "x8238EF" "x82A274" "x8BA717" "x8F918A" "xCAECEF" "xCC472E" "xCE7F3B" "xDE43F7" "xE96CF4" "xEE0067" "xF39FDA" "xF5E20E" }
-    traits = { "state_trait_andes" "state_trait_atacama_desert" }
+    traits = { "state_trait_andes" "state_trait_atacama_desert" "state_trait_domeyko_fault" }
     city = "x7984DF"
     port = "x2000F0"
     farm = "x694D06"
@@ -13,6 +13,7 @@
     capped_resources = {
         building_iron_mine = 30
         building_sulfur_mine = 48
+        building_copper_mine = 36
         building_fishing_wharf = 5
     }
     resource = {
@@ -21,4 +22,6 @@
         undiscovered_amount = 10
     }
     naval_exit_id = 3152
+    min_cold_effect = 0.05
+    max_cold_effect = 0.20
 }

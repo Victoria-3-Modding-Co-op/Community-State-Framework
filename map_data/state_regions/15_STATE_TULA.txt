@@ -1,0 +1,17 @@
+﻿STATE_TULA = {
+    id = 575
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x05E237" "x1D9534" "x1E5225" "x301EC1" "x36FFFE" "x4A6AE0" "x6BE684" "x71473A" "x752A3E" "x8BC0CA" "x8FB5BF" "x9D8B55" "xA020A0" "xA02120" "xB56E0D" "xC020E0" "xC20515" "xC492A0" "xD04FB9" "xD3CC3C" "xD7163E" "xE0FF4A" }
+    city = "x8BC0CA"
+    farm = "x05E237"
+    mine = "xA02120"
+    wood = "x71473A"
+    arable_land = 100
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_logging_camp = 42
+        building_coal_mine = 28
+    }
+    min_cold_effect = 0.02
+    max_cold_effect = 0.65
+}

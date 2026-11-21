@@ -20,5 +20,9 @@
         type = "building_rubber_plantation"
         undiscovered_amount = 40
     }
-    naval_exit_id = 3051
+    naval_exit_id = 3072
+    blockade_locator = {
+        position = { 6467 0 1537 }
+        yaw = -121
+    }
 }

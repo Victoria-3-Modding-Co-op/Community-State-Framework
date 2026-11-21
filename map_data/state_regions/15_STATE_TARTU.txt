@@ -14,4 +14,10 @@
         building_fishing_wharf = 7
     }
     naval_exit_id = 3000
+    blockade_locator = {
+        position = { 4659 0 3015 }
+        yaw = 74
+    }
+    min_cold_effect = 0.03
+    max_cold_effect = 0.68
 }

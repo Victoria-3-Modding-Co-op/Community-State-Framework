@@ -1,7 +1,7 @@
 ﻿STATE_NOVGOROD = {
     id = 141
     subsistence_building = "building_subsistence_farm"
-    provinces = { "x03F85A" "x04598A" "x05F14E" "x0AE75F" "x0BB972" "x0BBA97" "x0C0B91" "x16B74D" "x1A2B02" "x20B928" "x2FA786" "x3988B7" "x3CBDA1" "x3E0E98" "x3ECBC8" "x4020DF" "x42C9C5" "x4394A5" "x4706A4" "x4BA77A" "x4C6679" "x5357F0" "x54C324" "x559AAA" "x57940A" "x60DEEE" "x62D485" "x64C8B4" "x68E99E" "x6D9FEE" "x6F52F8" "x6F7ECE" "x704EB0" "x7D5607" "x7EFD2D" "x7F6E38" "x80AA34" "x834B21" "x8399C9" "x867ADD" "x88E955" "x89E2E6" "x8A28DB" "x8B9F17" "x952176" "xA00000" "xA90928" "xAB60B3" "xABC7C5" "xAE2050" "xB69A40" "xB6FE8B" "xC1B0C9" "xC4D5AC" "xC617F1" "xC7C158" "xCDE8A8" "xCE92C5" "xD2A34C" "xD2AF21" "xD34803" "xD475F6" "xD7127A" "xDA4154" "xE2021A" "xE35415" "xE7DAD6" "xF2F837" "xF42F56" "xF69FA2" }
+    provinces = { "x03F85A" "x04598A" "x05F14E" "x0AE75F" "x0BB972" "x0BBA97" "x0C0B91" "x16B74D" "x1A2B02" "x2FA786" "x3988B7" "x3CBDA1" "x3E0E98" "x3ECBC8" "x4020DF" "x42C9C5" "x4394A5" "x4706A4" "x4BA77A" "x4C6679" "x5357F0" "x54C324" "x559AAA" "x57940A" "x60DEEE" "x62D485" "x64C8B4" "x68E99E" "x6F52F8" "x6F7ECE" "x7D5607" "x7EFD2D" "x7F6E38" "x80AA34" "x834B21" "x8399C9" "x867ADD" "x88E955" "x89E2E6" "x8A28DB" "x8B9F17" "x952176" "xA00000" "xA90928" "xAB60B3" "xABC7C5" "xAE2050" "xB69A40" "xB6FE8B" "xC1B0C9" "xC4D5AC" "xC617F1" "xC7C158" "xCDE8A8" "xCE92C5" "xD2A34C" "xD2AF21" "xD34803" "xD475F6" "xD7127A" "xDA4154" "xE2021A" "xE35415" "xE7DAD6" "xF2F837" "xF42F56" "xF69FA2" }
     traits = { "state_trait_russian_forest" }
     city = "xCDE8A8"
     farm = "x834B21"
@@ -13,4 +13,6 @@
         building_coal_mine = 24
         building_logging_camp = 40
     }
+    min_cold_effect = 0.05
+    max_cold_effect = 0.76
 }

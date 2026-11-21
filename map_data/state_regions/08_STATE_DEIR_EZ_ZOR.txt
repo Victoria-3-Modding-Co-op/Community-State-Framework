@@ -9,4 +9,6 @@
     wood = "x1ECFDA"
     arable_land = 20
     arable_resources = { "building_millet_farm" "building_livestock_ranch" "building_tobacco_plantation" }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.18
 }

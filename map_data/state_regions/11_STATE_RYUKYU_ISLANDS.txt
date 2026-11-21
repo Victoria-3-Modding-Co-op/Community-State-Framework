@@ -4,7 +4,7 @@
     provinces = { "xBB27F6" "xF0D080" "xF0F061" }
     traits = { "state_trait_naha_cane_fields" }
     city = "xF0F061"
-    port = "xF0D080"
+    port = "xF0F061"
     farm = "xF0F061"
     mine = "xF0F061"
     wood = "xF0F061"
@@ -16,4 +16,6 @@
         building_sulfur_mine = 6
     }
     naval_exit_id = 3058
+    min_cold_effect = 0.00
+    max_cold_effect = 0.05
 }

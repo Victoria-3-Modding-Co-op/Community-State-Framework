@@ -2,13 +2,14 @@
     id = 437
     subsistence_building = "building_subsistence_farm"
     provinces = { "x011141" "x3537D5" "x40D001" "x4A4DF9" "x73A639" "x74A861" "x801000" "x85DCE4" "x9BC69B" "xC0CF80" "xC27075" "xC9B445" "xD15CBD" "xD1A8AF" "xD62036" "xD65AC8" "xF0E0DF" "xFB38B0" "xFB53B8" }
+    prime_land = { "xD1A8AF" }
     traits = { "state_trait_caucasus_mountains" }
     city = "x3537D5"
     port = "x011141"
     farm = "x40D001"
     mine = "x4A4DF9"
     wood = "xD62036"
-    arable_land = 75
+    arable_land = 85
     arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_silk_plantation" "building_tea_plantation" "building_vineyard" }
     capped_resources = {
         building_coal_mine = 40
@@ -19,4 +20,6 @@
         building_fishing_wharf = 5
     }
     naval_exit_id = 3094
+    min_cold_effect = 0.12
+    max_cold_effect = 0.62
 }

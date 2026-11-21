@@ -14,6 +14,9 @@
         building_coal_mine = 80
         building_iron_mine = 30
         building_sulfur_mine = 80
+        building_copper_mine = 6
         building_logging_camp = 6
     }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.51
 }

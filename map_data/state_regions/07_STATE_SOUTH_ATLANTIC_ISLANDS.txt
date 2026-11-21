@@ -17,4 +17,6 @@
         building_fishing_wharf = 2
     }
     naval_exit_id = 3066
+    min_cold_effect = 0.12
+    max_cold_effect = 0.40
 }

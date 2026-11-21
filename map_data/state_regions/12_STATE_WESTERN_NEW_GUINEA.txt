@@ -12,6 +12,7 @@
     arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_sugar_plantation" "building_banana_plantation" }
     capped_resources = {
         building_iron_mine = 18
+        building_copper_mine = 9
         building_logging_camp = 20
         building_fishing_wharf = 9
         building_whaling_station = 2
@@ -25,4 +26,8 @@
         undiscovered_amount = 15
     }
     naval_exit_id = 3125
+    blockade_locator = {
+        position = { 7090 0 1481 }
+        yaw = 154
+    }
 }

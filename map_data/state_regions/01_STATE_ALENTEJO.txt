@@ -4,7 +4,7 @@
     provinces = { "x207080" "x84A822" "x88DCE1" "x8B17E3" "xA07080" "xB0177A" "xC3BFC4" "xEBA935" "xEFC9BC" }
     traits = { "state_trait_tagus_river" }
     city = "xEFC9BC"
-    port = "x88DCE1"
+    port = "x207080"
     farm = "x207080"
     mine = "xA07080"
     wood = "xC3BFC4"
@@ -13,9 +13,12 @@
     capped_resources = {
         building_coal_mine = 4
         building_iron_mine = 16
+        building_copper_mine = 6
         building_sulfur_mine = 22
         building_logging_camp = 2
         building_fishing_wharf = 6
     }
     naval_exit_id = 3089
+    min_cold_effect = 0.00
+    max_cold_effect = 0.23
 }

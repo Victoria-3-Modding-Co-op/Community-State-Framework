@@ -25,4 +25,8 @@
         undiscovered_amount = 25
     }
     naval_exit_id = 3051
+    blockade_locator = {
+        position = { 6270 0 1639 }
+        yaw = 72
+    }
 }

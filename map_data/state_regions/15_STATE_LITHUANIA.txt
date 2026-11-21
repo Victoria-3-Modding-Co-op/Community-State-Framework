@@ -1,0 +1,19 @@
+﻿STATE_LITHUANIA = {
+    id = 153
+    subsistence_building = "building_subsistence_farm"
+    provinces = { "x00E0A0" "x0980C8" "x0B6577" "x21F318" "x232B98" "x406DC9" "x4177AF" "x4678E5" "x577C69" "x6175AD" "x629C46" "x7A5D64" "x8060A0" "x80D858" "x95171C" "xA8FF51" "xA916E3" "xAF73F2" "xBFE867" "xC0A0A0" "xCC4C28" "xCD7291" "xE0B943" }
+    city = "xCD7291"
+    port = "xBFE867"
+    farm = "xE0B943"
+    mine = "x0980C8"
+    wood = "xC0A0A0"
+    arable_land = 56
+    arable_resources = { "building_rye_farm" "building_livestock_ranch" }
+    capped_resources = {
+        building_logging_camp = 8
+        building_fishing_wharf = 2
+    }
+    naval_exit_id = 3000
+    min_cold_effect = 0.00
+    max_cold_effect = 0.61
+}

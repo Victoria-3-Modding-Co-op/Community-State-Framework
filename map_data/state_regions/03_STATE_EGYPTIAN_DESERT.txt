@@ -10,4 +10,6 @@
     wood = "xBD5993"
     arable_land = 5
     arable_resources = { "building_livestock_ranch" }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.04
 }

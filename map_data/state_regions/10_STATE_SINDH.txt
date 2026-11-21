@@ -16,4 +16,6 @@
         building_logging_camp = 3
     }
     naval_exit_id = 3048
+    min_cold_effect = 0.00
+    max_cold_effect = 0.05
 }

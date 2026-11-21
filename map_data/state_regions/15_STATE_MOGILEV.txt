@@ -12,4 +12,6 @@
     capped_resources = {
         building_logging_camp = 21
     }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.58
 }

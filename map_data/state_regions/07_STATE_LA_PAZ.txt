@@ -11,6 +11,7 @@
     capped_resources = {
         building_logging_camp = 20
         building_gold_mine = 4
+        building_copper_mine = 6
     }
     resource = {
         type = "building_rubber_plantation"
@@ -20,4 +21,6 @@
         type = "building_oil_rig"
         undiscovered_amount = 50
     }
+    min_cold_effect = 0.18
+    max_cold_effect = 0.40
 }

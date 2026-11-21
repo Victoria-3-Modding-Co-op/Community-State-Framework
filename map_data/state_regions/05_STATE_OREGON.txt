@@ -16,4 +16,6 @@
         building_whaling_station = 3
     }
     naval_exit_id = 3153
+    min_cold_effect = 0.00
+    max_cold_effect = 0.35
 }

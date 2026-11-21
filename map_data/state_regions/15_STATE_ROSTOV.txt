@@ -15,4 +15,10 @@
         building_logging_camp = 7
     }
     naval_exit_id = 3094
+    blockade_locator = {
+        position = { 4976 0 2667 }
+        yaw = 83
+    }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.47
 }

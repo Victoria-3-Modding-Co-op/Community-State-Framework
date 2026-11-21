@@ -4,7 +4,7 @@
     provinces = { "x0170A0" "x1BC9CB" "x2F832B" "x350DED" "x36F270" "x3FA81D" "x407020" "x42FC41" "x517637" "x75B0BE" "x8070A0" "x876E91" "x922EDA" "x9DF415" "xA54E11" "xAAA21C" "xB67223" "xB80596" "xF14D58" }
     traits = { "state_trait_natural_harbors" }
     city = "xA54E11"
-    port = "x350DED"
+    port = "x8070A0"
     farm = "x36F270"
     mine = "x407020"
     wood = "x8070A0"
@@ -20,4 +20,6 @@
         undiscovered_amount = 40
     }
     naval_exit_id = 3046
+    min_cold_effect = 0.00
+    max_cold_effect = 0.06
 }

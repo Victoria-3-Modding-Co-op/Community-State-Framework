@@ -14,6 +14,7 @@
         building_coal_mine = 100
         building_iron_mine = 60
         building_lead_mine = 45
+        building_copper_mine = 5
         building_logging_camp = 9
         building_fishing_wharf = 15
     }
@@ -22,4 +23,6 @@
         undiscovered_amount = 20
     }
     naval_exit_id = 3030
+    min_cold_effect = 0.00
+    max_cold_effect = 0.42
 }

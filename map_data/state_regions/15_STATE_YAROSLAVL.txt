@@ -1,7 +1,7 @@
 ﻿STATE_YAROSLAVL = {
     id = 821
     subsistence_building = "building_subsistence_farm"
-    provinces = { "x028EC5" "x0D1821" "x1053DD" "x130A3E" "x221D59" "x23F3C4" "x2FB453" "x2FC308" "x400383" "x40FEDE" "x461223" "x4D1D44" "x53C6EC" "x53CD52" "x560151" "x5C950C" "x60C080" "x64B6B7" "x6DD07A" "x74EDD1" "x756F52" "x824587" "x89264F" "x8D7901" "x8F478B" "x912892" "x9B8556" "x9DFD09" "xA36510" "xABAE9B" "xB0A39B" "xB24923" "xB9892E" "xBDF81C" "xC0C040" "xC37BBA" "xCC840C" "xCC8451" "xCD34E8" "xD19951" "xD9ACBE" "xDF20A0" "xE02020" "xE03FE3" "xE33B67" "xE78F94" "xEE2E88" "xF04BD2" "xF39D33" "xF7AA04" "xFFEC80" }
+    provinces = { "x0D1821" "x1053DD" "x118DB1" "x130A3E" "x20B928" "x2FC308" "x40FEDE" "x41FF83" "x53C6EC" "x53CD52" "x5C950C" "x604180" "x6D9FEE" "x6DD07A" "x704EB0" "x74EDD1" "x756F52" "x824587" "x89264F" "x912892" "x99879C" "x9B8556" "x9DFD09" "xA36510" "xABAE9B" "xB0A39B" "xB24923" "xB9892E" "xC37BBA" "xCC840C" "xD19951" "xDF20A0" "xE02020" "xE03FE3" "xE33B67" "xFA15E7" "xFFEC80" }
     city = "x74EDD1"
     farm = "xFFEC80"
     mine = "xCC840C"
@@ -13,4 +13,6 @@
         building_logging_camp = 67
         building_iron_mine = 6
     }
+    min_cold_effect = 0.04
+    max_cold_effect = 0.71
 }

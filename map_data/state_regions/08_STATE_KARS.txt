@@ -10,8 +10,11 @@
     arable_land = 10
     arable_resources = { "building_wheat_farm" "building_livestock_ranch" "building_cotton_plantation" "building_tea_plantation" "building_tobacco_plantation" }
     capped_resources = {
+        building_copper_mine = 6
         building_logging_camp = 9
         building_fishing_wharf = 5
     }
     naval_exit_id = 3094
+    min_cold_effect = 0.00
+    max_cold_effect = 0.29
 }

@@ -15,10 +15,13 @@
         building_iron_mine = 6
         building_coal_mine = 52
         building_logging_camp = 7
-        building_lead_mine = 9
+        building_lead_mine = 6
+        building_copper_mine = 5
         building_sulfur_mine = 31
         building_fishing_wharf = 18
         building_gold_mine = 1
     }
     naval_exit_id = 3058
+    min_cold_effect = 0.00
+    max_cold_effect = 0.12
 }

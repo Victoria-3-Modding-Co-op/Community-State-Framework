@@ -1,7 +1,7 @@
 ﻿STATE_NIZHNY_NOVGOROD = {
     id = 823
     subsistence_building = "building_subsistence_farm"
-    provinces = { "x006422" "x02BE2C" "x05F5DA" "x088E55" "x0C5F95" "x0D8767" "x193A00" "x202BAA" "x221C4C" "x259E71" "x298ED1" "x29EC04" "x2A61E0" "x30B835" "x339ADC" "x35FB76" "x3F9FBA" "x40B6D6" "x438CFD" "x4C71B7" "x5E59E5" "x60A0A0" "x6CDD7C" "x7C85D2" "x7DA8A0" "x920EE6" "x9439A0" "x96DCF9" "x975454" "xA080A0" "xA99531" "xADD34A" "xBFA41C" "xC6E27A" "xC74B66" "xD2E466" "xE1A4D3" "xEA0D0B" "xF0B801" }
+    provinces = { "x006422" "x088E55" "x0C5F95" "x0D8767" "x193A00" "x202BAA" "x221C4C" "x259E71" "x29EC04" "x30B835" "x339ADC" "x35FB76" "x400383" "x438CFD" "x461223" "x4C71B7" "x5E59E5" "x60A0A0" "x6CDD7C" "x9439A0" "x96DCF9" "xBFA41C" "xC6E27A" "xC74B66" "xD2E466" "xE1A4D3" "xF0B801" }
     city = "x202BAA"
     farm = "xF0B801"
     mine = "xE1A4D3"
@@ -13,4 +13,6 @@
         building_iron_mine = 25
         building_logging_camp = 24
     }
+    min_cold_effect = 0.02
+    max_cold_effect = 0.68
 }

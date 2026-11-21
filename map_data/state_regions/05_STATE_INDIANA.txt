@@ -13,4 +13,6 @@
         building_coal_mine = 48
         building_logging_camp = 28
     }
+    min_cold_effect = 0.02
+    max_cold_effect = 0.32
 }

@@ -15,6 +15,8 @@
     }
     capped_resources = {
         building_logging_camp = 3
-        building_iron_mine = 2
+        building_iron_mine = 3
     }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.13
 }

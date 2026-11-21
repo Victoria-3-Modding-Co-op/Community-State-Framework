@@ -2,7 +2,7 @@
     #done
     id = 832
     subsistence_building = "building_subsistence_farm"
-    provinces = { "x001A4C" "x00CB99" "x133FC5" "x16720C" "x179ABF" "x194D18" "x1B441A" "x1FDB8B" "x2280E9" "x25E850" "x2DD811" "x2E246D" "x2FE367" "x323E2B" "x37A807" "x389A65" "x3AD809" "x40E399" "x4110C0" "x45F63E" "x47EC86" "x4A290E" "x56E27E" "x60DFA0" "x629CB4" "x6453FB" "x6908A8" "x77420F" "x795CFC" "x831CDC" "x8CFB3E" "x942B77" "x96422C" "x96F70A" "xA09A50" "xA59162" "xB2CEE0" "xB67ACC" "xB6D2D8" "xC158DC" "xC470FD" "xCB291D" "xCB9D88" "xD38934" "xDA0B52" "xDFE045" "xDFE0A0" "xE239D3" "xE8465C" "xEB5712" "xEFFDD6" "xF9AEA7" }
+    provinces = { "x001A4C" "x00CB99" "x133FC5" "x16720C" "x179ABF" "x194D18" "x1B441A" "x1FDB8B" "x2280E9" "x25E850" "x2DD811" "x2E246D" "x2FE367" "x323E2B" "x37A807" "x389A65" "x3AD809" "x40E399" "x4110C0" "x45F63E" "x47EC86" "x4A290E" "x56E27E" "x60DFA0" "x629CB4" "x6453FB" "x6908A8" "x756FF5" "x77420F" "x795CFC" "x7B9902" "x831CDC" "x8CFB3E" "x942B77" "x96422C" "x96F70A" "xA09A50" "xA59162" "xB2CEE0" "xB67ACC" "xB6D2D8" "xC158DC" "xC470FD" "xCB291D" "xCB9D88" "xD38934" "xDA0B52" "xDFE0A0" "xE239D3" "xE8465C" "xEB5712" "xEFFDD6" "xF9AEA7" }
     city = "x2FE367"
     farm = "xC470FD"
     mine = "xC158DC"
@@ -13,6 +13,7 @@
     capped_resources = {
         building_iron_mine = 95
         building_coal_mine = 25
+        building_copper_mine = 9
         building_logging_camp = 16
         building_gold_mine = 3
     }
@@ -21,4 +22,6 @@
         depleted_type = "building_gold_mine"
         undiscovered_amount = 9
     }
+    min_cold_effect = 0.02
+    max_cold_effect = 0.63
 }

@@ -13,8 +13,11 @@
     capped_resources = {
         building_iron_mine = 21
         building_sulfur_mine = 32
+        building_copper_mine = 6
         building_logging_camp = 4
         building_fishing_wharf = 5
     }
     naval_exit_id = 3152
+    min_cold_effect = 0.10
+    max_cold_effect = 0.28
 }

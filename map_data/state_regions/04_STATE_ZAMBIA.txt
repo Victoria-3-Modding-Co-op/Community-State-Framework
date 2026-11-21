@@ -2,7 +2,7 @@
     id = 252
     subsistence_building = "building_subsistence_farm"
     provinces = { "x01DAF2" "x036962" "x04EE2A" "x076DB2" "x0D2021" "x0EB967" "x0F41AA" "x0FC828" "x137E0F" "x19D221" "x1A3936" "x1B9E38" "x1EE306" "x23B4BE" "x28ECB2" "x28FEA8" "x30DEE0" "x319C47" "x31BEE9" "x339A57" "x361062" "x38F842" "x3F3C71" "x4060F0" "x42585D" "x46BE86" "x48173A" "x484D42" "x4A5DD9" "x4BCC5E" "x4E7E66" "x55D19D" "x5A1BF2" "x5B459D" "x60E9CD" "x62BBF1" "x69FA4E" "x6D48F8" "x6D63E8" "x6EBF71" "x6F3B8C" "x6FBDD5" "x70FA3C" "x71875F" "x778391" "x78FFDC" "x79A426" "x7A1B83" "x7A1E23" "x7DE1CA" "x7F247F" "x81481F" "x828F71" "x84DDAA" "x87B33F" "x8866AE" "x887742" "x8BDDAB" "x8C26BF" "x8D503A" "x8D6CA6" "x8F6688" "x8F9EE5" "x923EAF" "x931020" "x93D445" "x9C721A" "xA02031" "xA430E0" "xA4660F" "xA63EB3" "xA9339C" "xB54AA9" "xC05572" "xC1847A" "xC29ED3" "xC5FD71" "xC8E1C9" "xCC2E4C" "xCCB8E0" "xCEF8D6" "xCF60FE" "xD08043" "xD79E7A" "xD8DF07" "xD9353E" "xDC956A" "xDD006D" "xDE6D00" "xE24009" "xE7EAB5" "xEBD5BC" "xF4B66F" "xF9EA9A" "xFB17EB" }
-    traits = { "state_trait_severe_malaria" "state_trait_zambezi_river" }
+    traits = { "state_trait_severe_malaria" "state_trait_zambezi_river" "state_trait_african_copper_belt" }
     city = "x28ECB2"
     farm = "x55D19D"
     mine = "x79A426"
@@ -12,6 +12,7 @@
     capped_resources = {
         building_coal_mine = 36
         building_lead_mine = 33
+        building_copper_mine = 21
         building_logging_camp = 17
     }
     resource = {

@@ -20,4 +20,10 @@
         undiscovered_amount = 30
     }
     naval_exit_id = 3060
+    blockade_locator = {
+        position = { 2216 0 2157 }
+        yaw = 80
+    }
+    min_cold_effect = 0.00
+    max_cold_effect = 0.07
 }

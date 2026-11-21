@@ -5,7 +5,7 @@
     city = "xD7671E"
     farm = "x9C66DA"
     mine = "xFA13C2"
-    wood = "xDF3E66"
+    wood = "x880372"
     arable_land = 45
     traits = { "state_trait_western_steppe" }
     arable_resources = { "building_rye_farm" "building_livestock_ranch" }
@@ -13,5 +13,8 @@
         building_iron_mine = 16
         building_coal_mine = 68
         building_logging_camp = 6
+        building_copper_mine = 5
     }
+    min_cold_effect = 0.05
+    max_cold_effect = 0.65
 }

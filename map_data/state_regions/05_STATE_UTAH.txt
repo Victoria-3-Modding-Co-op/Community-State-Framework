@@ -2,7 +2,7 @@
     id = 307
     subsistence_building = "building_subsistence_pasture"
     provinces = { "x044448" "x13DF28" "x174B8E" "x1AFAE8" "x1D0AA3" "x23017D" "x24D112" "x276EB1" "x2C62ED" "x326026" "x37D3FD" "x38A656" "x3E927D" "x3F5E68" "x3FB458" "x4D739A" "x52FA0B" "x53E828" "x54A0C5" "x567651" "x5708EE" "x5CEFAC" "x75E9AD" "x7E6D79" "x7F33D3" "x83E7A7" "x8E2C1A" "x8F9823" "x901FD6" "x904000" "x9271BC" "x9ADC65" "x9B34F6" "x9BA0EB" "x9E50CC" "x9FC5C3" "xA3BC1C" "xA54D29" "xA73DE5" "xA7E6DC" "xA9B917" "xAB025B" "xADCDE9" "xAF38BD" "xB33EEF" "xB3AE0B" "xB6B187" "xBC1C92" "xC2D850" "xC3F179" "xC71490" "xCBA4C1" "xD08080" "xD13E4A" "xD4D9A8" "xD52E98" "xD9ABAF" "xE49638" "xEC4FF4" "xF10601" "xF3B4BA" "xF441CF" "xF480A1" "xFC38F6" }
-    traits = { "state_trait_wasatch_range" }
+    traits = { "state_trait_wasatch_range" "state_trait_american_copper_belt" }
     city = "xF3B4BA"
     farm = "xA7E6DC"
     mine = "xB3AE0B"
@@ -11,10 +11,13 @@
     arable_resources = { "building_maize_farm" "building_livestock_ranch" }
     capped_resources = {
         building_iron_mine = 30
+        building_copper_mine = 6
         building_logging_camp = 6
     }
     resource = {
         type = "building_oil_rig"
         undiscovered_amount = 20
     }
+    min_cold_effect = 0.02
+    max_cold_effect = 0.45
 }

@@ -10,8 +10,11 @@
     arable_land = 20
     arable_resources = { "building_rice_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_banana_plantation" }
     capped_resources = {
-        building_lead_mine = 12
+        building_lead_mine = 6
+        building_copper_mine = 7
         building_logging_camp = 9
         building_gold_mine = 4
     }
+    min_cold_effect = 0.20
+    max_cold_effect = 0.45
 }
